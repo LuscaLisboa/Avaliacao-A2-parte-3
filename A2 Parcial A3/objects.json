@@ -1,0 +1,30 @@
+{ 
+    "obj1" : 
+    {
+        "NOME" : "José",
+        "Idade": 38,
+        "Lazer" :
+        {
+            "Esporte" : ["Futebol", "Basquete"],
+            "Filmes" : 
+            {
+                "Genero" : ["Ficção", "Drama"],
+                "Décadas" : [1980, 2000]
+            }
+        }
+    },
+    "obj2" :
+    {
+        "NOME" : "José",
+        "Idade": 38,
+        "Lazer" :
+        {
+            "Esporte" : ["Futebol", "Basquete"],
+            "Filmes" : 
+            {
+                "Genero" : ["Ficção", "Drama"],
+                "Décadas" : [2000]
+            }
+        }
+    }
+}
